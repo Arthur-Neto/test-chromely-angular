@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31424.327
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Test.Chromely", "Test.Chromely.csproj", "{FD49CDE5-6CE7-44D7-A890-900DF282CF8D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Release|x64 = Release|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FD49CDE5-6CE7-44D7-A890-900DF282CF8D}.Debug|x64.ActiveCfg = Debug|x64
+		{FD49CDE5-6CE7-44D7-A890-900DF282CF8D}.Debug|x64.Build.0 = Debug|x64
+		{FD49CDE5-6CE7-44D7-A890-900DF282CF8D}.Release|x64.ActiveCfg = Release|x64
+		{FD49CDE5-6CE7-44D7-A890-900DF282CF8D}.Release|x64.Build.0 = Release|x64
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CB85CE06-6F1B-4132-9E43-BFE89F29CC82}
+	EndGlobalSection
+EndGlobal
